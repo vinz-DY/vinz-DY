@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🎯 I’m currently working on **my project Collection 80**
+ 🎯 For now, i'm working on **my project Collection 80**
  
  😍 I am currently in the process of finding **my professional soul mate**
  
