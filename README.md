@@ -8,7 +8,17 @@
 
 <br/>
 
+<div align="center">
+ 
+ 🎯 I’m currently working on **my project Collection 80**
+ 
+ 😍 I am currently in the process of finding **my professional soul mate**
+ 
+ 🧠 I’m currently learning **Tailwind, Supabase**
 
+⚡ Fun fact **A teaspoon of honey is the life work of 12 bees**
+
+ </div>
 
 
 
