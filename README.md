@@ -32,7 +32,24 @@
   </a>
 </div>
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,react,html,css,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,figma,photoshop,git,github" /><br>
+</div>
 
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vinz-DY/vinz-DY/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 
 
