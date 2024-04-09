@@ -1,4 +1,4 @@
-### Hi there 👋
+### NICE TO MEET U 👋
 
 <!--
 **vinz-DY/vinz-DY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
