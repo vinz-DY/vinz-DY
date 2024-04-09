@@ -16,7 +16,7 @@
  
  🧠 I’m currently learning **Tailwind and more React concept**
 
-⚡ Fun fact **A teaspoon of honey is the life work of 12 bees**
+ 😂 Fun fact **A teaspoon of honey is the life work of 12 bees**
 
  </div>
 
